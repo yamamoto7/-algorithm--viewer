@@ -2,20 +2,18 @@
 
 > A Vue.js project
 
-## Build Setup
+## 始め方
+フロント開発に関してはあまり歴が長くないので詳しい説明はできません。
+とりあえず自分の環境下での開始手順を書きますが、ソースコードは`src/App.vue`にあるのでそちらをコピペでもすぐに開始できます。
 
-``` bash
-# install dependencies
-npm install
+まずクローン
+`git clone git@github.com:yamamoto7/algorithm--viewer.git`
 
-# serve with hot reload at localhost:8080
-npm run dev
+移動
+`cd algorithm--viewer`
 
-# build for production with minification
-npm run build
+パッケージインストール
+`npm install --save-dev`
 
-# build for production and view the bundle analyzer report
-npm run build --report
-```
-
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+開発環境で起動
+`npm run dev`
