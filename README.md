@@ -1,6 +1,6 @@
-# algorithm_viewer
+## 見本
 
-> A Vue.js project
+http://yamamoto7.com/#/posts/2
 
 ## 始め方
 フロント開発に関してはあまり歴が長くないので詳しい説明はできません。
